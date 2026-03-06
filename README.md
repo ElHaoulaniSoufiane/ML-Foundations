@@ -10,7 +10,9 @@ This repository documents my 18-month journey to becoming an AI Engineer. I focu
 
 \##📅 Roadmap Tracking
 
-\*\*\*Month 1: ML Basics Part 1\*\* (In Progress ⏳) - \*Focus: Linear \& Logistic Regression\*
+\*\*\*Month 0 : Math Foundations (In Progress ⏳)** - *Linear Algebra & Calculus from scratch*
+
+\*\*\*Month 1: ML Basics Part 1\*\* (Planned 🔜) - \*Focus: Linear \& Logistic Regression\*
 
 \*\*\*Month 2: ML Basics Part 2\*\* (Planned 🔜)  - \*Neural Network, Decision Trees, Kaggle\*
 
